@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WQHB0MgWxl0I1fICCAlaK593bbKDABcHxqt//vnSsbBSouRvZtNfQc74WftvXPD47RDhvCr+nmJOIylEpeHTFw==",
+  "dgSpecHash": "IH06bcp46yfqD9VRbTjSoY1quKNDnyS19tlqAVLCW+czZ9oUoCk8fqGNiRzFkRAi7rPaceEcFY1kQ/RB+Uo4EQ==",
   "success": true,
-  "projectFilePath": "/com.docker.devenvironments.code/DevEnvTestWebApp.csproj",
+  "projectFilePath": "C:\\Users\\ibolyasni\\source\\repos\\DevEnvTestWebApp\\DevEnvTestWebApp\\DevEnvTestWebApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

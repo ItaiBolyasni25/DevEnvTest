@@ -8,24 +8,31 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/home/vscode/.nuget/packages/": {}
+    "C:\\Users\\ibolyasni\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/com.docker.devenvironments.code/DevEnvTestWebApp.csproj",
+      "projectUniqueName": "C:\\Users\\ibolyasni\\source\\repos\\DevEnvTestWebApp\\DevEnvTestWebApp\\DevEnvTestWebApp.csproj",
       "projectName": "DevEnvTestWebApp",
-      "projectPath": "/com.docker.devenvironments.code/DevEnvTestWebApp.csproj",
-      "packagesPath": "/home/vscode/.nuget/packages/",
-      "outputPath": "/com.docker.devenvironments.code/obj/",
+      "projectPath": "C:\\Users\\ibolyasni\\source\\repos\\DevEnvTestWebApp\\DevEnvTestWebApp\\DevEnvTestWebApp.csproj",
+      "packagesPath": "C:\\Users\\ibolyasni\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ibolyasni\\source\\repos\\DevEnvTestWebApp\\DevEnvTestWebApp\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "/home/vscode/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\ibolyasni\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -61,7 +68,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.301/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }
